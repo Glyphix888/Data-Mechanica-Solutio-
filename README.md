@@ -1,5 +1,5 @@
-# Data Mechanica Solutions
-##### A roadmap for building .... Data Mechanica Solutions
+# Data Mechanica Solutio
+##### A roadmap to building Data Mechnica Solutions
 
 ---
 
