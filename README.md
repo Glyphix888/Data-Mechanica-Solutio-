@@ -1,5 +1,5 @@
 # Data Mechanica Solutions
-##### A roadmap for building automated businesses from scratch
+##### A roadmap for building .... Data Mechanica Solutions
 
 ---
 
