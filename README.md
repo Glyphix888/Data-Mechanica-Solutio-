@@ -359,3 +359,9 @@ Allow clients to measure ROI and conversions.
 Retain clients, increase LTV, and generate referrals.
 
 </details>
+
+# Project Architecture
+
+Here is the workflow of our system:
+
+![Mechanica Components](MechanicaComponents.svg)
