@@ -17,6 +17,13 @@
 <details>
   <summary>Market Research & Strategy</summary>
 
+**Target Markets**
+
+- Local service businesses (real estate, roofing, med spas, law firms)
+- E-commerce brands doing $50k–$500k/mo
+- Agencies drowning in leads/support tickets
+- Real estate brokerages (lead qualification bots here)
+
 **Why these industries**
 
 - Already pay for software  
@@ -26,13 +33,6 @@
 **Core Offer**
 
 > *“I build a custom AI assistant that answers leads instantly, qualifies them, and books calls.”*
-
-**Target Markets**
-
-- Local service businesses (real estate, roofing, med spas, law firms)
-- E-commerce brands doing $50k–$500k/mo
-- Agencies drowning in leads/support tickets
-- Real estate brokerages (lead qualification bots crush here)
 
 </details>
 
@@ -48,8 +48,19 @@
 </details>
 
 <details>
+  <summary>Marketing & Awareness</summary>
+
+- TCPA compliance (SMS/mobile opt-in)
+- CAN-SPAM compliance (email opt-out)
+- Respect Opt-Out requests
+- Only contact numbers you have legal grounds to message
+
+</details>
+
+
+<details>
   <summary>Lead Generation</summary>
-  
+
 - Scraping business records for e-mails
 - Outbound campaigns (cold email, LinkedIn outreach)
 - Inbound lead capture (forms, landing pages)
@@ -157,3 +168,35 @@
 - Encourage innovation in product/service offerings
 
 </details>
+
+**System Components Construction Status**
+
+---
+
+- [ ] Lead generation component: Data scraping tools, Social media tools
+<details>
+  <summary>Continuous Improvement & Innovation</summary>
+
+- Tool	What It Helps With
+- PropStream	Owner + property data statewide
+- ListSource	Target by geography, property type
+- BatchLeads	Skip tracing, absentee owners
+- Reonomy	Commercial property owners
+- Zillow / Redfin APIs (via partners)	Listing status data
+- Google Sheets + Apps Script	Organize/export leads
+- LinkedIn Sales Navigator	Local real estate professionals
+
+</details>
+
+- [ ] Not done
+- [ ] Not done
+- [ ] Not done
+- [ ] Not done
+- [ ] Not done
+- [ ] Not done
+- [ ] Not done
+- [ ] Not done
+- [ ] Not done
+- [ ] Not done
+- [ ] Not done
+- [ ] Not done
