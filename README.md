@@ -16,13 +16,18 @@
 
 <details>
   <summary>Market Research & Strategy</summary>
-<center>
-    ###### Why these industries
-    Already pay for software
-    Understand ROI
-    Don’t want to build anything themselves
-    Offer: “I build a custom AI assistant that answers leads instantly, qualifies them, and books calls.”
-</center>
+
+**Why these industries**
+
+- Already pay for software  
+- Understand ROI  
+- Don’t want to build anything themselves  
+
+**Core Offer**
+
+> *“I build a custom AI assistant that answers leads instantly, qualifies them, and books calls.”*
+
+**Target Markets**
 
 - Local service businesses (real estate, roofing, med spas, law firms)
 - E-commerce brands doing $50k–$500k/mo
