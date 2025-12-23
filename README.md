@@ -6,40 +6,48 @@
 <details>
   <summary>Business Foundations</summary>
 
-- Define your **business model** and revenue streams
-- Legal setup: registrations, licenses, compliance
-- Branding & positioning: name, logo, USP
-- Vision, mission, and long-term goals
-
+- Bussiness name: Data Mechanica Solutions 
+- AI assistants that answers leads instantly, qualifes them, books calls and alerts agents”
+- Customer Support / Sales Bots
+- Community / Social Bots 
+- Platform Integrations: WhatsApp business bots, SMS bots, social media automation bots.
+- Vision, mission, and long-term goals: Automated client aquisition and retention
 </details>
 
 <details>
   <summary>Market Research & Strategy</summary>
+<center>
+    ###### Why these industries
+    Already pay for software
+    Understand ROI
+    Don’t want to build anything themselves
+    Offer: “I build a custom AI assistant that answers leads instantly, qualifies them, and books calls.”
+</center>
 
-- Identify **target audience** and ideal customer profile
-- Competitor research & analysis
-- Pricing strategy and product-market fit
-- Market sizing and opportunity assessment
+- Local service businesses (real estate, roofing, med spas, law firms)
+- E-commerce brands doing $50k–$500k/mo
+- Agencies drowning in leads/support tickets
+- Real estate brokerages (lead qualification bots crush here)
 
 </details>
 
 <details>
   <summary>Marketing & Awareness</summary>
 
-- Content marketing: blogs, videos, social media
-- Paid ads: Google, Facebook, LinkedIn campaigns
+- Cold E-mail offers, from target industry lead generation
+- Google, Facebook, LinkedIn presense
 - SEO & website optimization
-- Partnerships, affiliates, and community building
-- Lead magnets and email capture strategies
+- Scheduled Demonstrations videos that convert into onboarding 
+- Lead magnets and email capture strategies, free demos online in exchange for email on website
 
 </details>
 
 <details>
   <summary>Lead Generation</summary>
-
+- Scraping business records for e-mails
 - Outbound campaigns (cold email, LinkedIn outreach)
 - Inbound lead capture (forms, landing pages)
-- Automation tools for lead collection and nurturing
+- Automation tools for lead collection 
 - Lead scoring and qualification process
 
 </details>
