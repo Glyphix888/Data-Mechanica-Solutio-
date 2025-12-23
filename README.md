@@ -364,4 +364,4 @@ Retain clients, increase LTV, and generate referrals.
 
 Here is the workflow of our system:
 
-![Mechanica Components](MechanicaComponents.svg)
+![Mechanica Components](mechanica-diagram.svg)
