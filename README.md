@@ -49,6 +49,7 @@
 
 <details>
   <summary>Lead Generation</summary>
+  
 - Scraping business records for e-mails
 - Outbound campaigns (cold email, LinkedIn outreach)
 - Inbound lead capture (forms, landing pages)
